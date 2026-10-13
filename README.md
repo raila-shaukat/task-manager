@@ -42,7 +42,7 @@ task-manager/
 
 1. Clone the repository
 ```
-   git clone <(https://github.com/raila-shaukat/task-manager.git)>
+   git clone https://github.com/raila-shaukat/task-manager.git
    cd task-manager
 ```
 2. Install dependencies
